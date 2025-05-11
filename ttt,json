@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "JetBrainsMonoNerdFont",
+    "previewText": "adocado",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/hahahotcodegoburn/tst/blob/main/JetBrainsMonoNerdFont-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/hahahotcodegoburn/tst/blob/main/JetBrainsMonoNerdFont-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/hahahotcodegoburn/tst/blob/main/JetBrainsMonoNerdFont-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "hhttps://github.com/hahahotcodegoburn/tst/blob/main/JetBrainsMonoNerdFont-ExtraBold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/hahahotcodegoburn/tst/blob/main/JetBrainsMonoNerdFont-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/hahahotcodegoburn/tst/blob/main/JetBrainsMonoNerdFont-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/hahahotcodegoburn/tst/blob/main/JetBrainsMonoNerdFont-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/hahahotcodegoburn/tst/blob/main/JetBrainsMonoNerdFont-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/hahahotcodegoburn/pyon/blob/main/font/BlenderPro-BookItalic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/hahahotcodegoburn/pyon/blob/main/font/BlenderPro-Bold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/hahahotcodegoburn/pyon/blob/main/font/BlenderPro-BoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/hahahotcodegoburn/pyon/blob/main/font/BlenderPro-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/hahahotcodegoburn/pyon/blob/main/font/BlenderPro-Bold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/hahahotcodegoburn/pyon/blob/main/font/BlenderPro-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/hahahotcodegoburn/pyon/blob/main/font/BlenderPro-Book.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/hahahotcodegoburn/tst/blob/main/JetBrainsMonoNerdFont-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/hahahotcodegoburn/tst/blob/main/JetBrainsMonoNerdFont-SemiBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/hahahotcodegoburn/tst/blob/main/JetBrainsMonoNerdFont-SemiBold.ttf?raw=1"
+    }
+}
